@@ -1,0 +1,1 @@
+php artisan vendor:publish --provider="OfflineAgency\FattureInCloud\FattureInCloudServiceProvider" --tag="config"    
